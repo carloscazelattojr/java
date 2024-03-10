@@ -1,7 +1,7 @@
 
 
  <div align="center">
-  <h1 align="center">Java, Spring and Etc.</h1>
+  <h1 align="center">Java, Spring, Quarkus and etc.</h1>
 </div>
 <p align="center">
    List of projects developed in Java, Spring-Boot, Quarkus and others
