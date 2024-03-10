@@ -12,6 +12,14 @@
 
 [Quarkus API Social](https://github.com/carloscazelattojr/quarkus-api-social)
 
+[Spring Admin Server Monitoring](https://github.com/carloscazelattojr/springboot-admin-server-monitoring)
+
+[Spring with ChatGPT](https://github.com/carloscazelattojr/spring-boot-chatgpt)
+
+[Spring API Student Course](https://github.com/carloscazelattojr/springboot-web-app-students)
+
+[Spring + AWS Deploy](https://github.com/carloscazelattojr/springboot-aws-deploy)
+
 [Spring with MongoDB](https://github.com/carloscazelattojr/spring-mongodb)
 
 [Spring + Multidatabse Routing](https://github.com/carloscazelattojr/multidatabase-routing)
@@ -36,6 +44,8 @@
 
 [Spring Authorization Server](https://github.com/carloscazelattojr/spring-authorization-server)
 
+[Spring API Forum](https://github.com/carloscazelattojr/springboot-api-rest-forum)
+
 [BDD with Mockito](https://github.com/carloscazelattojr/springboot-tests-BDDMockito)
 
 [Spring Send Email with GMail ](https://github.com/carloscazelattojr/springboot-send-email-gmail-java)
@@ -45,4 +55,7 @@
 [Logistica - Algaworks](https://github.com/carloscazelattojr/springboot-Algaworks-Logistica)
 
 [Campo Minado com Java](https://github.com/carloscazelattojr/campo-minado-java)
+
+[Spring Cloud + Docker](https://github.com/carloscazelattojr/spring-cloud-docker)
+
 
