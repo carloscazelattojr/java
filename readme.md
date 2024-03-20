@@ -34,5 +34,8 @@
 - [Logistica - Algaworks](https://github.com/carloscazelattojr/springboot-Algaworks-Logistica)
 - [Campo Minado com Java](https://github.com/carloscazelattojr/campo-minado-java)
 - [Spring Cloud + Docker](https://github.com/carloscazelattojr/spring-cloud-docker)
+- [Fullstack Java Angular](https://github.com/carloscazelattojr/fullstack-java-angular)
+- [Spring-Boot Registration Login](https://github.com/carloscazelattojr/springboot-registration-login)
+- [Spring-Boot MVC Project MUDI-Alura](https://github.com/carloscazelattojr/springboot-mvc-project-mudi)
 
 
