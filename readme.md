@@ -9,7 +9,7 @@
  </p>
 
 ## Projects
-- [API Hexagonal Customer, com Kafka, MongoDB, WireMock, ArchUnit)](https://github.com/carloscazelattojr/hexagonal-api-customer)
+- [API Hexagonal Customer com Kafka, MongoDB, WireMock, ArchUnit](https://github.com/carloscazelattojr/hexagonal-api-customer)
 - [API Hexagonal Juros Boleto (Spring, Docker, MySQL, Feign, Map Struct)](https://github.com/carloscazelattojr/hexagonal-api-desafio)
 - [Quarkus API Social](https://github.com/carloscazelattojr/quarkus-api-social)
 - [Spring Admin Server Monitoring](https://github.com/carloscazelattojr/springboot-admin-server-monitoring)
