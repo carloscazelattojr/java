@@ -9,6 +9,7 @@
  </p>
 
 ## Projects
+- [Help Desk 2.0 - Spring Framework, MongoDB-Atlas, Microservices, Security](https://github.com/carloscazelattojr/helpdesk2)
 - [Projeto Decoder - Spring Framework, Patterns, Logs, PostgreSQL e etc](https://github.com/carloscazelattojr/decoder)
 - [API Hexagonal Customer com Kafka, MongoDB, WireMock, ArchUnit](https://github.com/carloscazelattojr/hexagonal-api-customer)
 - [API Hexagonal Juros Boleto (Spring, Docker, MySQL, Feign, Map Struct)](https://github.com/carloscazelattojr/hexagonal-api-desafio)
